@@ -18,7 +18,7 @@ def binary_search(arr, target):
 # Example usage
 numbers = [1, 3, 5, 7, 9, 11]
 result = binary_search(numbers, 7)
-print("\n The Array is [ 1,3,5,7,9,11] "\n)
+print("\n The Array is [ 1,3,5,7,9,11] ")
 print("\n The answer of binary search is :\n")
 
 print("Index:", result)
